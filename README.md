@@ -4,7 +4,7 @@ Python program to scrape Publix buy one get one free (BOGO) deals for multuple s
 
 Dependencies:
 - Selenium Webdriver (https://pypi.org/project/selenium/) to interact with Publix website
-- yagmail (https://github.com/kootenpv/yagmail) to email deals
-- Pandas (https://pandas.pydata.org/docs/)
-- Beautiful Soup (https://pypi.org/project/beautifulsoup4/)
+- Yagmail (https://github.com/kootenpv/yagmail) to email deals
+- Pandas (https://pandas.pydata.org/docs/) to convert dictionary to html
+- Beautiful Soup (https://pypi.org/project/beautifulsoup4/) for html parsing
 - Python time module
