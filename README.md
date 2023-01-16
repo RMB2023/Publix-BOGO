@@ -2,7 +2,7 @@
 Python program to scrape Publix BOGO deals for multuple stores and email them. 
 
 Dependencies:
-- Uses Selenium Webdriver (https://pypi.org/project/selenium/) to interact with Publix website
+- Selenium Webdriver (https://pypi.org/project/selenium/) to interact with Publix website
 - yagmail (https://github.com/kootenpv/yagmail) to email deals
 - Pandas (https://pandas.pydata.org/docs/)
 - Beautiful Soup (https://pypi.org/project/beautifulsoup4/)
