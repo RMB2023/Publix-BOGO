@@ -1,5 +1,5 @@
 # Publix-BOGO
-Python program to scrape Publix buy one get one free (BOGO) deals for multuple stores and email them. 
+Python program to scrape Publix buy one get one free (BOGO) deals for multuple stores and email result. 
 
 
 Dependencies:
