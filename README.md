@@ -7,4 +7,4 @@ Dependencies:
 - Yagmail (https://github.com/kootenpv/yagmail) to email deals
 - Pandas (https://pandas.pydata.org/docs/) to convert dictionary to html
 - Beautiful Soup (https://pypi.org/project/beautifulsoup4/) for html parsing
-- Python time module
+- Python time module (https://docs.python.org/3/library/time.html) for sleep function
