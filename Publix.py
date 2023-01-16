@@ -14,10 +14,11 @@ GMAIL_username = 'XXXXXXXXX@gmail.com'
 GMAIL_password = 'XXXXXXXXX'
 target_email = 'XXXXXXXXX@gmail.com'
 deal_dict = {} # Create empty dictionary to store deals by store
+web_driver_path = r'C:\Users\XXXXXXXXXXXXXXXXXXXX\chromedriver.exe'
 
 ##### XPath Variables #####
 loadmore = '//*[@id="main"]/div[4]/div/div[2]/div[2]/div[4]/button/span'
-web_driver_path = r'C:\Users\ryanb\OneDrive\Desktop\chromedriver_win32\chromedriver.exe'
+
 shop_at_this_store = '//*[@id="main"]/div[3]/div[1]/button'
 
 # Create selenium webdriver
